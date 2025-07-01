@@ -2,7 +2,7 @@ import React, { useState, useEffect, useCallback, useMemo, useRef } from 'react'
 import './App.css';
 
 // ===================== DATA STRUCTURES & GAME CONSTANTS =====================
-const MAX_RESEARCH_LEVEL = 5;
+const MAX_RESEARCH_LEVEL = 2;
 const XP_PER_LEVEL = 100;
 const XP_PER_ENCOUNTER = 25;
 const SCAN_DURATION = 3000;
